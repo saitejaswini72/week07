@@ -1,6 +1,5 @@
 # week07/.github/workflows/backend_ci.yml
 # Triggering CI pipeline for testing
-# rerun
 
 name: Backend CI - Test, Build and Push Images to ACR
 
